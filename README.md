@@ -16,5 +16,8 @@ In addition to my tech-savvy side, I have a hidden talent – I'm a pizza enthus
 
 Feel free to reach out! You can connect with me via:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-quaydrionb-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/quaydrionb)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-quaydrionb-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/quaydrionb)
+
+
+
 
