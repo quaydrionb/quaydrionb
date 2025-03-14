@@ -1,6 +1,6 @@
 # About Me
 
-I'm Quaydrion, a passionate Sofware developer with a love for creating elegant and efficient solutions
+I'm a passionate Sofware developer with a love for creating elegant and efficient solutions
 
 # Fun Fact About Me
 
